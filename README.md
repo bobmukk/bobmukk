@@ -6,5 +6,5 @@
 
 ---
 
-### 📊 GitHub Stats
-![bobmukk's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobmukk&show_icons=true&theme=radial&cache_seconds=1800)
+### 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobmukk&layout=compact&theme=radial)
